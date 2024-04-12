@@ -26,6 +26,7 @@ eigenvalues,eigenvectors=np.linalg.eig(a)
 print("Eigen values are",eigenvalues,"and Eigen Vectors are",eigenvectors)
 ```
 ## Output:
+
 ![image](https://github.com/ANU23000217/EIGENVALUES-AND-EIGENVECTORS/assets/139117108/344f1824-621c-4dad-a8e1-e7a0e195ae0c)
 
 ## Result:
